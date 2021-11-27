@@ -17,8 +17,8 @@ $ yarn start
 React 练手
 
 技术：基于 Umi3 + DVA + TS + Antd-Mobile
-创建目录： mkdir snow-mall
-打开目录：cd snow-mall
+创建目录： mkdir shoppingdemo
+打开目录：cd shoppingdemo
 安装依赖：yarn
 启动项目：yarn start
 

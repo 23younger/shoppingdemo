@@ -14,7 +14,7 @@ Start the dev server,
 $ yarn start
 ```
 
-React 练手一下xia
+React 练手一下xiassss
 
 技术：基于 Umi3 + DVA + TS + Antd-Mobile
 创建目录： mkdir shoppingdemo

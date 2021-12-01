@@ -13,7 +13,7 @@ export default {
     status: 1,
     name: '莎士比亚',
     icon: 'https://tva1.sinaimg.cn/large/00831rSTly1gdm7eok2oij301s01sgli.jpg',
-    userid: null, //'001',
+    userid: '001',
   },
   // GET POST 可省略
   'GET /api/users': [
@@ -38,7 +38,7 @@ export default {
   ],
   'POST /api/login': (req: Request, res: Response) => {
     const { password, name } = req.body;
-    if (password === '123' && name === 'gaoshaoyun') {
+    if (password === '123' && name === 'younger') {
       res.send({
         status: 1,
         name: '莎士比亚',
